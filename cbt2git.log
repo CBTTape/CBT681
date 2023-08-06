@@ -1,0 +1,21 @@
+2023-08-06 06:27:38.691761 - Initialized conversion of CBT681
+2023-08-06 06:27:38.844302 - Received CBT.V505.FILE681.PDS from FILE681.XMI 
+2023-08-06 06:27:38.846739 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:27:38.847873 - Found $COMPILE.jcl (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/$COMPILE
+2023-08-06 06:27:38.848945 - Found $REPORT.jcl (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/$REPORT
+2023-08-06 06:27:38.849898 - Found $RUN.jcl (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/$RUN
+2023-08-06 06:27:38.850861 - Found $SAMPOUT.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/$SAMPOUT
+2023-08-06 06:27:38.850868 - Found $SAMPOUX.x-mp4a-latm containing audio/x-mp4a-latm, moved to PDS/$SAMPOUX
+2023-08-06 06:27:38.852641 - Found @FILE681.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/@FILE681
+2023-08-06 06:27:38.853521 - Found ENTER.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/ENTER
+2023-08-06 06:27:38.854462 - Found GETDCB.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/GETDCB
+2023-08-06 06:27:38.855356 - Found HEX.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/HEX
+2023-08-06 06:27:38.856210 - Found LINKDATE.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/LINKDATE
+2023-08-06 06:27:38.857117 - Found PLEA.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/PLEA
+2023-08-06 06:27:38.858211 - Found PLEAREP.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/PLEAREP
+2023-08-06 06:27:38.859075 - Found RENTR.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/RENTR
+2023-08-06 06:27:38.859936 - Found RETRN.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/RETRN
+2023-08-06 06:27:38.860803 - Found REVERSE.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/REVERSE
+2023-08-06 06:27:38.861704 - Found REXIT.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/REXIT
+2023-08-06 06:27:38.862698 - Found SAMPLER.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/SAMPLER
+2023-08-06 06:27:38.863582 - Found SYMBAR.txt (text/plain) in CBT.V505.FILE681.PDS, moved to PDS/SYMBAR
