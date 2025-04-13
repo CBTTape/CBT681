@@ -1,0 +1,20 @@
+2025-04-13 21:46:32.118747 - Received CBT.V508.FILE681.PDS from FILE681.XMI 
+2025-04-13 21:46:32.119946 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:46:32.120032 - Found $COMPILE.jcl (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/$COMPILE
+2025-04-13 21:46:32.120094 - Found $REPORT.jcl (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/$REPORT
+2025-04-13 21:46:32.120151 - Found $RUN.jcl (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/$RUN
+2025-04-13 21:46:32.120212 - Found $SAMPOUT.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/$SAMPOUT
+2025-04-13 21:46:32.120302 - Found $SAMPOUX.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE681.PDS, moved to PDS/$SAMPOUX
+2025-04-13 21:46:32.120359 - Found @FILE681.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/@FILE681
+2025-04-13 21:46:32.120420 - Found ENTER.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/ENTER
+2025-04-13 21:46:32.120477 - Found GETDCB.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/GETDCB
+2025-04-13 21:46:32.120547 - Found HEX.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/HEX
+2025-04-13 21:46:32.120617 - Found LINKDATE.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/LINKDATE
+2025-04-13 21:46:32.120687 - Found PLEA.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/PLEA
+2025-04-13 21:46:32.120782 - Found PLEAREP.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/PLEAREP
+2025-04-13 21:46:32.120845 - Found RENTR.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/RENTR
+2025-04-13 21:46:32.120899 - Found RETRN.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/RETRN
+2025-04-13 21:46:32.120962 - Found REVERSE.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/REVERSE
+2025-04-13 21:46:32.121019 - Found REXIT.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/REXIT
+2025-04-13 21:46:32.121112 - Found SAMPLER.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/SAMPLER
+2025-04-13 21:46:32.121173 - Found SYMBAR.txt (text/plain) in CBT.V508.FILE681.PDS, moved to PDS/SYMBAR
